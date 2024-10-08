@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on **Vexa Web App** -->
 
-- 🌱 I’m currently learning **NextJS**
+- 🧑‍💻 I’m currently working at **HSV.Digital**
 
 - 💬 Ask me about **MERN, NestJS, NextJS**
 
