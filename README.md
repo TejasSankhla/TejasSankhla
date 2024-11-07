@@ -5,9 +5,17 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TejasSankhla&base=0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="TejasSankhla" /> </p>
-
-<p align="left"> <a href="https://twitter.com/SankhlaTejas" target="blank"><img src="https://img.shields.io/twitter/follow/TejasSankhla?logo=twitter&style=for-the-badge" alt="TejasSankhla"  </p>
+<div align="center">
+  <a href="https://github.com/TejasSankhla">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasSankhla&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TejasSankhla"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSankhla&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TejasSankhla"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/TejasSankhla">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSankhla&&theme=tokyonight" alt="TejasSankhla" />
+  </a>
+</p>
 
 <!-- - 🔭 I’m currently working on **Vexa Web App** -->
 
